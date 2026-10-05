@@ -2,7 +2,7 @@ import random, time, requests
 from playwright.sync_api import sync_playwright
 
 # CHANGE THIS LINK TO YOUR TARGET LINK
-TARGET_URL = "https://example.com" 
+TARGET_URL = "https://www.profitableratecpmnetwork.com/xij3bnky?key=799b506ccb29959c50a39b9ab41b3065" 
 
 PROFILES = [
     {"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36", "vp": {"width": 1920, "height": 1080}},
